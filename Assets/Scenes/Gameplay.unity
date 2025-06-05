@@ -787,7 +787,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: add80379eaa013043b874f8f982a47d4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d570c88a7a0615b43b51964e03c82d2d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2269,8 +2269,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bulb: {fileID: 483820488}
-  bulbOnSprite: {fileID: -2413806693520163455, guid: f2899fb3c6a3be64a8aafd60068abcf6, type: 3}
-  bulbOffSprite: {fileID: -2413806693520163455, guid: 712edcd64c59a8a42bcf47d2ad95ce16, type: 3}
+  bulbOnSprite: {fileID: 21300000, guid: 939c644f8f8705d40b5c534e5d9e9483, type: 3}
+  bulbOffSprite: {fileID: 21300000, guid: d570c88a7a0615b43b51964e03c82d2d, type: 3}
   switchButtons:
   - {fileID: 1449790769}
   - {fileID: 1910526846}

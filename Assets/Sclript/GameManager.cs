@@ -21,6 +21,7 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
+
         switchStates = new bool[3];
         bulbWasOn = new bool[3];
         correctSwitch = Random.Range(0, 3); // Pilih saklar benar secara acak
